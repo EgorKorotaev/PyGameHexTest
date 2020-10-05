@@ -1,0 +1,132 @@
+[
+  {
+    "rCoordinate" : 0,
+    "qCoordinate" : 0,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      0,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 2,
+    "qCoordinate" : 0,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      5,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 3,
+    "qCoordinate" : 0,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      10,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 0,
+    "qCoordinate" : 1,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      15,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 1,
+    "qCoordinate" : 1,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      20,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 2,
+    "qCoordinate" : 1,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      25,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 3,
+    "qCoordinate" : 1,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      30,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 1,
+    "qCoordinate" : 2,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      35,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 2,
+    "qCoordinate" : 2,
+    "heightLevel" : 1,
+    "colorHSV" : [
+      40,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 3,
+    "qCoordinate" : 2,
+    "heightLevel" : 1,
+    "colorHSV" : [
+      45,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 0,
+    "qCoordinate" : 3,
+    "heightLevel" : 1,
+    "colorHSV" : [
+      50,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 1,
+    "qCoordinate" : 3,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      55,
+      90,
+      85
+    ]
+  },
+  {
+    "rCoordinate" : 2,
+    "qCoordinate" : 3,
+    "heightLevel" : 0,
+    "colorHSV" : [
+      60,
+      90,
+      85
+    ]
+  }
+]
